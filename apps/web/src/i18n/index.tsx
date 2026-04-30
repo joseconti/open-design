@@ -10,7 +10,7 @@ import {
   type ReactNode,
 } from 'react';
 import { en } from './locales/en';
-import { es } from './locales/es';
+import { esES } from './locales/es-ES';
 import { fa } from './locales/fa';
 import { ptBR } from './locales/pt-BR';
 import { ru } from './locales/ru';
@@ -28,7 +28,7 @@ const DICTS: Record<Locale, Dict> = {
   'zh-CN': zhCN,
   'zh-TW': zhTW,
   'pt-BR': ptBR,
-  'es': es,
+  'es-ES': esES,
   'ru': ru,
   'fa': fa,
 };

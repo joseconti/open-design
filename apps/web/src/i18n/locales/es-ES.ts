@@ -1,6 +1,6 @@
 import type { Dict } from '../types';
 
-export const es: Dict = {
+export const esES: Dict = {
   'common.cancel': 'Cancelar',
   'common.save': 'Guardar',
   'common.close': 'Cerrar',
